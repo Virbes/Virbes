@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello! I'm Francisco 👋
 
-<!--
-**Virbes/Virbes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **software developer** with 1 year of professional experience. I love creating web solutions using various technologies to provide engaging and functional experiences.
 
-Here are some ideas to get you started:
+## Technologies I've worked with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend**:
+  - React
+  - Angular
+  - Bootstrap
+  - Tailwind CSS
+  - SASS
+
+- **Backend**:
+  - PHP (Laravel)
+  - Python (Django, Flask)
+
+## About me:
+
+- 🌱 I'm currently improving my skills in **Python** and **Django** for web development.
+- 📚 My English level is **low**, but I am working to improve it.
+- 💻 I'm always eager to learn new technologies and face new challenges.
+
+Thanks for visiting my profile!
