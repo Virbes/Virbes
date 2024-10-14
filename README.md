@@ -18,7 +18,7 @@ I am a **software developer** with 1 year of professional experience. I love cre
   - SASS
 
 - **Backend**:
-  - PHP (Laravel)
+  - PHP (Laravel, CodeIgniter)
   - Python (Django, Flask)
 
 
